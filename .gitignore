@@ -1,0 +1,17 @@
+# datasets
+CV_PROJECT/data/
+
+# model checkpoints
+CV_PROJECT/checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# large archives
+*.tar.gz
+*.zip
+*.pth
