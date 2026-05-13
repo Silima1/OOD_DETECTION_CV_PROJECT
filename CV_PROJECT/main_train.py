@@ -101,7 +101,7 @@ def main():
         gamma=0.1
     )
 
-    num_epochs = 20
+    num_epochs = 100
     best_acc = 0.0
     history = []
 
