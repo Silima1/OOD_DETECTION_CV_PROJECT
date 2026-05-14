@@ -1,0 +1,14 @@
+services:
+  cv_ood:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    container_name: cv_ood_pipeline
+
+    working_dir: /app
+
+    volumes:
+      - .:/app
+
+    command: python3 run_pipeline.py
