@@ -1,0 +1,17 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+jupyter
+notebook
+ipykernel
+umap-learn
+opencv-python
+grad-cam
+tabulate
