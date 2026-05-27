@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1779872493.79139 "project_report.tex" "project_report.pdf" "project_report" 1779872501.35139 0
+["pdflatex"] 1779893995.71913 "project_report.tex" "project_report.pdf" "project_report" 1779893999.60588 0
   "../results/confusion_matrices/confusion_matrix_resnet18_cifar10.png" 1779135863.13063 285936 9abbeafc8b299f4f87409adc0a75983f ""
   "../results/figures/comparison_methods_auroc.png" 1779135863.14163 105099 cf5a59b8952b16825180104fce14dda0 ""
   "../results/figures/comparison_methods_fpr95.png" 1779135863.14263 102938 40b5b1dc4dd91fa6d4e76987d7ee8157 ""
@@ -160,9 +160,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1779207370.94925 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1779207379 6851227 29183d8c0d795bc94e79df95b5dd6e11 ""
-  "project_report.aux" 1779872501.19158 5978 5f4dfa37ee5e67cd1a5407c8f2f384da "pdflatex"
-  "project_report.out" 1779872501.19358 3855 584ff030b02cd6497d35aab8bc38c465 "pdflatex"
-  "project_report.tex" 1779872084.66305 28532 af71c01e08e39d02935f0b46594eb2c7 ""
+  "project_report.aux" 1779893999.492 5978 5f4dfa37ee5e67cd1a5407c8f2f384da "pdflatex"
+  "project_report.out" 1779893999.493 3855 584ff030b02cd6497d35aab8bc38c465 "pdflatex"
+  "project_report.tex" 1779893991.42353 28670 85e36b80bf899d8fdd85746ed3b604f4 ""
   (generated)
   "project_report.aux"
   "project_report.log"
