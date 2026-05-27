@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.5.19)  19 MAY 2026 17:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.5.19)  27 MAY 2026 10:01
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**reports/project_report.tex
-(./reports/project_report.tex
+**project_report.tex
+(./project_report.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -491,7 +490,7 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count304
 \l__pdf_internal_box=\box59
 )
-(reports/project_report.aux)
+(./project_report.aux)
 \openout1 = `project_report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
@@ -591,7 +590,7 @@ e
 ))
 Package hyperref Info: Link coloring OFF on input line 54.
 
-(reports/project_report.out) (reports/project_report.out)
+(./project_report.out) (./project_report.out)
 \@outlinefile=\write3
 \openout3 = `project_report.out'.
 
@@ -657,25 +656,25 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 137.
  [3{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/d
 vips/lm/lm-mathsy.enc}]
-<results/figures/training_accuracy_resnet18_cifar10.png, id=138, 578.16pt x 361
-.35pt>
-File: results/figures/training_accuracy_resnet18_cifar10.png Graphic file (type
- png)
-<use results/figures/training_accuracy_resnet18_cifar10.png>
-Package pdftex.def Info: results/figures/training_accuracy_resnet18_cifar10.png
-  used on input line 169.
+<../results/figures/training_accuracy_resnet18_cifar10.png, id=138, 578.16pt x 
+361.35pt>
+File: ../results/figures/training_accuracy_resnet18_cifar10.png Graphic file (t
+ype png)
+<use ../results/figures/training_accuracy_resnet18_cifar10.png>
+Package pdftex.def Info: ../results/figures/training_accuracy_resnet18_cifar10.
+png  used on input line 169.
 (pdftex.def)             Requested size: 218.51521pt x 136.57007pt.
-<results/figures/training_loss_resnet18_cifar10.png, id=140, 578.16pt x 361.35p
-t>
-File: results/figures/training_loss_resnet18_cifar10.png Graphic file (type png
-)
-<use results/figures/training_loss_resnet18_cifar10.png>
-Package pdftex.def Info: results/figures/training_loss_resnet18_cifar10.png  us
-ed on input line 175.
+<../results/figures/training_loss_resnet18_cifar10.png, id=140, 578.16pt x 361.
+35pt>
+File: ../results/figures/training_loss_resnet18_cifar10.png Graphic file (type 
+png)
+<use ../results/figures/training_loss_resnet18_cifar10.png>
+Package pdftex.def Info: ../results/figures/training_loss_resnet18_cifar10.png 
+ used on input line 175.
 (pdftex.def)             Requested size: 218.51521pt x 136.57007pt.
  [4{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/e
-nc/dvips/lm/lm-mathex.enc} <./results/figures/training_accuracy_resnet18_cifar1
-0.png> <./results/figures/training_loss_resnet18_cifar10.png>] [5] [6]
+nc/dvips/lm/lm-mathex.enc} <../results/figures/training_accuracy_resnet18_cifar
+10.png> <../results/figures/training_loss_resnet18_cifar10.png>] [5] [6]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
 52.
  (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
@@ -691,117 +690,120 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 400.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 400.
-
 [7]
-<results/figures/comparison_methods_auroc.png, id=194, 578.16pt x 361.35pt>
-File: results/figures/comparison_methods_auroc.png Graphic file (type png)
-<use results/figures/comparison_methods_auroc.png>
-Package pdftex.def Info: results/figures/comparison_methods_auroc.png  used on 
-input line 420.
+<../results/figures/comparison_methods_auroc.png, id=194, 578.16pt x 361.35pt>
+File: ../results/figures/comparison_methods_auroc.png Graphic file (type png)
+<use ../results/figures/comparison_methods_auroc.png>
+Package pdftex.def Info: ../results/figures/comparison_methods_auroc.png  used 
+on input line 420.
 (pdftex.def)             Requested size: 218.51521pt x 136.57007pt.
-<results/figures/comparison_methods_fpr95.png, id=195, 578.16pt x 361.35pt>
-File: results/figures/comparison_methods_fpr95.png Graphic file (type png)
-<use results/figures/comparison_methods_fpr95.png>
-Package pdftex.def Info: results/figures/comparison_methods_fpr95.png  used on 
-input line 426.
+<../results/figures/comparison_methods_fpr95.png, id=195, 578.16pt x 361.35pt>
+File: ../results/figures/comparison_methods_fpr95.png Graphic file (type png)
+<use ../results/figures/comparison_methods_fpr95.png>
+Package pdftex.def Info: ../results/figures/comparison_methods_fpr95.png  used 
+on input line 426.
 (pdftex.def)             Requested size: 218.51521pt x 136.57007pt.
  [8]
-<results/figures/heatmap_auroc_methods_datasets.png, id=201, 578.16pt x 361.35p
-t>
-File: results/figures/heatmap_auroc_methods_datasets.png Graphic file (type png
-)
-<use results/figures/heatmap_auroc_methods_datasets.png>
-Package pdftex.def Info: results/figures/heatmap_auroc_methods_datasets.png  us
-ed on input line 437.
+<../results/figures/heatmap_auroc_methods_datasets.png, id=201, 578.16pt x 361.
+35pt>
+File: ../results/figures/heatmap_auroc_methods_datasets.png Graphic file (type 
+png)
+<use ../results/figures/heatmap_auroc_methods_datasets.png>
+Package pdftex.def Info: ../results/figures/heatmap_auroc_methods_datasets.png 
+ used on input line 437.
 (pdftex.def)             Requested size: 218.51521pt x 136.57007pt.
-<results/figures/heatmap_fpr95_methods_datasets.png, id=202, 578.16pt x 361.35p
-t>
-File: results/figures/heatmap_fpr95_methods_datasets.png Graphic file (type png
-)
-<use results/figures/heatmap_fpr95_methods_datasets.png>
-Package pdftex.def Info: results/figures/heatmap_fpr95_methods_datasets.png  us
-ed on input line 443.
+<../results/figures/heatmap_fpr95_methods_datasets.png, id=202, 578.16pt x 361.
+35pt>
+File: ../results/figures/heatmap_fpr95_methods_datasets.png Graphic file (type 
+png)
+<use ../results/figures/heatmap_fpr95_methods_datasets.png>
+Package pdftex.def Info: ../results/figures/heatmap_fpr95_methods_datasets.png 
+ used on input line 443.
 (pdftex.def)             Requested size: 218.51521pt x 136.57007pt.
-<results/score_distributions/energy_cifar10_vs_mnist.png, id=203, 578.16pt x 36
-1.35pt>
-File: results/score_distributions/energy_cifar10_vs_mnist.png Graphic file (typ
-e png)
-<use results/score_distributions/energy_cifar10_vs_mnist.png>
-Package pdftex.def Info: results/score_distributions/energy_cifar10_vs_mnist.pn
-g  used on input line 460.
+<../results/score_distributions/energy_cifar10_vs_mnist.png, id=203, 578.16pt x
+ 361.35pt>
+File: ../results/score_distributions/energy_cifar10_vs_mnist.png Graphic file (
+type png)
+<use ../results/score_distributions/energy_cifar10_vs_mnist.png>
+Package pdftex.def Info: ../results/score_distributions/energy_cifar10_vs_mnist
+.png  used on input line 460.
 (pdftex.def)             Requested size: 145.68144pt x 91.04855pt.
-<results/score_distributions/stoodx_cifar10_vs_svhn.png, id=204, 578.16pt x 361
-.35pt>
-File: results/score_distributions/stoodx_cifar10_vs_svhn.png Graphic file (type
+<../results/score_distributions/stoodx_cifar10_vs_svhn.png, id=204, 578.16pt x 
+361.35pt>
+File: ../results/score_distributions/stoodx_cifar10_vs_svhn.png Graphic file (t
+ype png)
+<use ../results/score_distributions/stoodx_cifar10_vs_svhn.png>
+Package pdftex.def Info: ../results/score_distributions/stoodx_cifar10_vs_svhn.
+png  used on input line 466.
+(pdftex.def)             Requested size: 145.68144pt x 91.04855pt.
+<../results/score_distributions/mahalanobis_cifar10_vs_cifar100.png, id=205, 57
+8.16pt x 361.35pt>
+File: ../results/score_distributions/mahalanobis_cifar10_vs_cifar100.png Graphi
+c file (type png)
+<use ../results/score_distributions/mahalanobis_cifar10_vs_cifar100.png>
+Package pdftex.def Info: ../results/score_distributions/mahalanobis_cifar10_vs_
+cifar100.png  used on input line 472.
+(pdftex.def)             Requested size: 145.68144pt x 91.04855pt.
+<../results/roc_curves/roc_energy_cifar10_vs_mnist.png, id=206, 433.62pt x 433.
+62pt>
+File: ../results/roc_curves/roc_energy_cifar10_vs_mnist.png Graphic file (type 
+png)
+<use ../results/roc_curves/roc_energy_cifar10_vs_mnist.png>
+Package pdftex.def Info: ../results/roc_curves/roc_energy_cifar10_vs_mnist.png 
+ used on input line 488.
+(pdftex.def)             Requested size: 145.68144pt x 145.68208pt.
+<../results/roc_curves/roc_stoodx_cifar10_vs_svhn.png, id=207, 433.62pt x 433.6
+2pt>
+File: ../results/roc_curves/roc_stoodx_cifar10_vs_svhn.png Graphic file (type p
+ng)
+<use ../results/roc_curves/roc_stoodx_cifar10_vs_svhn.png>
+Package pdftex.def Info: ../results/roc_curves/roc_stoodx_cifar10_vs_svhn.png  
+used on input line 494.
+(pdftex.def)             Requested size: 145.68144pt x 145.68208pt.
+<../results/roc_curves/roc_odin_cifar10_vs_cifar100.png, id=208, 433.62pt x 433
+.62pt>
+File: ../results/roc_curves/roc_odin_cifar10_vs_cifar100.png Graphic file (type
  png)
-<use results/score_distributions/stoodx_cifar10_vs_svhn.png>
-Package pdftex.def Info: results/score_distributions/stoodx_cifar10_vs_svhn.png
-  used on input line 466.
-(pdftex.def)             Requested size: 145.68144pt x 91.04855pt.
-<results/score_distributions/mahalanobis_cifar10_vs_cifar100.png, id=205, 578.1
-6pt x 361.35pt>
-File: results/score_distributions/mahalanobis_cifar10_vs_cifar100.png Graphic f
-ile (type png)
-<use results/score_distributions/mahalanobis_cifar10_vs_cifar100.png>
-Package pdftex.def Info: results/score_distributions/mahalanobis_cifar10_vs_cif
-ar100.png  used on input line 472.
-(pdftex.def)             Requested size: 145.68144pt x 91.04855pt.
-<results/roc_curves/roc_energy_cifar10_vs_mnist.png, id=206, 433.62pt x 433.62p
+<use ../results/roc_curves/roc_odin_cifar10_vs_cifar100.png>
+Package pdftex.def Info: ../results/roc_curves/roc_odin_cifar10_vs_cifar100.png
+  used on input line 500.
+(pdftex.def)             Requested size: 145.68144pt x 145.68208pt.
+ [9 <../results/figures/comparison_methods_auroc.png> <../results/figures/compa
+rison_methods_fpr95.png> <../results/figures/heatmap_auroc_methods_datasets.png
+> <../results/figures/heatmap_fpr95_methods_datasets.png> <../results/score_dis
+tributions/energy_cifar10_vs_mnist.png> <../results/score_distributions/stoodx_
+cifar10_vs_svhn.png> <../results/score_distributions/mahalanobis_cifar10_vs_cif
+ar100.png>]
+<../results/tsne_umap/tsne_cifar10_ood_features.png, id=223, 578.16pt x 433.62p
 t>
-File: results/roc_curves/roc_energy_cifar10_vs_mnist.png Graphic file (type png
+File: ../results/tsne_umap/tsne_cifar10_ood_features.png Graphic file (type png
 )
-<use results/roc_curves/roc_energy_cifar10_vs_mnist.png>
-Package pdftex.def Info: results/roc_curves/roc_energy_cifar10_vs_mnist.png  us
-ed on input line 488.
-(pdftex.def)             Requested size: 145.68144pt x 145.68208pt.
-<results/roc_curves/roc_stoodx_cifar10_vs_svhn.png, id=207, 433.62pt x 433.62pt
->
-File: results/roc_curves/roc_stoodx_cifar10_vs_svhn.png Graphic file (type png)
-
-<use results/roc_curves/roc_stoodx_cifar10_vs_svhn.png>
-Package pdftex.def Info: results/roc_curves/roc_stoodx_cifar10_vs_svhn.png  use
-d on input line 494.
-(pdftex.def)             Requested size: 145.68144pt x 145.68208pt.
-<results/roc_curves/roc_odin_cifar10_vs_cifar100.png, id=208, 433.62pt x 433.62
-pt>
-File: results/roc_curves/roc_odin_cifar10_vs_cifar100.png Graphic file (type pn
-g)
-<use results/roc_curves/roc_odin_cifar10_vs_cifar100.png>
-Package pdftex.def Info: results/roc_curves/roc_odin_cifar10_vs_cifar100.png  u
-sed on input line 500.
-(pdftex.def)             Requested size: 145.68144pt x 145.68208pt.
- [9 <./results/figures/comparison_methods_auroc.png> <./results/figures/compari
-son_methods_fpr95.png> <./results/figures/heatmap_auroc_methods_datasets.png> <
-./results/figures/heatmap_fpr95_methods_datasets.png> <./results/score_distribu
-tions/energy_cifar10_vs_mnist.png> <./results/score_distributions/stoodx_cifar1
-0_vs_svhn.png> <./results/score_distributions/mahalanobis_cifar10_vs_cifar100.p
-ng>]
-<results/tsne_umap/tsne_cifar10_ood_features.png, id=223, 578.16pt x 433.62pt>
-File: results/tsne_umap/tsne_cifar10_ood_features.png Graphic file (type png)
-<use results/tsne_umap/tsne_cifar10_ood_features.png>
-Package pdftex.def Info: results/tsne_umap/tsne_cifar10_ood_features.png  used 
-on input line 517.
+<use ../results/tsne_umap/tsne_cifar10_ood_features.png>
+Package pdftex.def Info: ../results/tsne_umap/tsne_cifar10_ood_features.png  us
+ed on input line 517.
 (pdftex.def)             Requested size: 218.51521pt x 163.88408pt.
-<results/tsne_umap/umap_cifar10_ood_features.png, id=224, 578.16pt x 433.62pt>
-File: results/tsne_umap/umap_cifar10_ood_features.png Graphic file (type png)
-<use results/tsne_umap/umap_cifar10_ood_features.png>
-Package pdftex.def Info: results/tsne_umap/umap_cifar10_ood_features.png  used 
-on input line 523.
+<../results/tsne_umap/umap_cifar10_ood_features.png, id=224, 578.16pt x 433.62p
+t>
+File: ../results/tsne_umap/umap_cifar10_ood_features.png Graphic file (type png
+)
+<use ../results/tsne_umap/umap_cifar10_ood_features.png>
+Package pdftex.def Info: ../results/tsne_umap/umap_cifar10_ood_features.png  us
+ed on input line 523.
 (pdftex.def)             Requested size: 218.51521pt x 163.88408pt.
-<results/confusion_matrices/confusion_matrix_resnet18_cifar10.png, id=225, 650.
-43pt x 650.43pt>
-File: results/confusion_matrices/confusion_matrix_resnet18_cifar10.png Graphic 
-file (type png)
-<use results/confusion_matrices/confusion_matrix_resnet18_cifar10.png>
-Package pdftex.def Info: results/confusion_matrices/confusion_matrix_resnet18_c
-ifar10.png  used on input line 537.
+<../results/confusion_matrices/confusion_matrix_resnet18_cifar10.png, id=225, 6
+50.43pt x 650.43pt>
+File: ../results/confusion_matrices/confusion_matrix_resnet18_cifar10.png Graph
+ic file (type png)
+<use ../results/confusion_matrices/confusion_matrix_resnet18_cifar10.png>
+Package pdftex.def Info: ../results/confusion_matrices/confusion_matrix_resnet1
+8_cifar10.png  used on input line 537.
 (pdftex.def)             Requested size: 327.7763pt x 327.7847pt.
- [10 <./results/roc_curves/roc_energy_cifar10_vs_mnist.png> <./results/roc_curv
-es/roc_stoodx_cifar10_vs_svhn.png> <./results/roc_curves/roc_odin_cifar10_vs_ci
-far100.png> <./results/tsne_umap/tsne_cifar10_ood_features.png> <./results/tsne
-_umap/umap_cifar10_ood_features.png>] [11 <./results/confusion_matrices/confusi
-on_matrix_resnet18_cifar10.png>] [12] [13]
-(reports/project_report.aux)
+ [10 <../results/roc_curves/roc_energy_cifar10_vs_mnist.png> <../results/roc_cu
+rves/roc_stoodx_cifar10_vs_svhn.png> <../results/roc_curves/roc_odin_cifar10_vs
+_cifar100.png> <../results/tsne_umap/tsne_cifar10_ood_features.png> <../results
+/tsne_umap/umap_cifar10_ood_features.png>] [11 <../results/confusion_matrices/c
+onfusion_matrix_resnet18_cifar10.png>] [12] [13]
+(./project_report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -810,13 +812,13 @@ Package rerunfilecheck Info: File `project_report.out' has not changed.
 (rerunfilecheck)             Checksum: 584FF030B02CD6497D35AAB8BC38C465;3855.
  ) 
 Here is how much of TeX's memory you used:
- 16351 strings out of 476139
- 267210 string characters out of 5794454
+ 16350 strings out of 476139
+ 267429 string characters out of 5794454
  1938975 words of memory out of 5000000
  37870 multiletter control sequences out of 15000+600000
  636016 words of font info for 177 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,9n,79p,1019b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,1011b,595s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/p
@@ -827,7 +829,7 @@ onts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/symbols/msbm10.pfb>
-Output written on reports/project_report.pdf (13 pages, 3543371 bytes).
+Output written on project_report.pdf (13 pages, 3542658 bytes).
 PDF statistics:
  352 PDF objects out of 1000 (max. 8388607)
  273 compressed objects within 3 object streams
